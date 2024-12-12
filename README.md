@@ -1,6 +1,6 @@
 # veryVerySimpleProjects
 
-Subjects and commands studied:
+Operators and commands studied:
 
 ## Start machine:
 - querySelector
@@ -18,3 +18,8 @@ Subjects and commands studied:
 - .toLowerCase()
 - onclick event
 
+## JS switch
+- switch
+- if, else if, else
+- *new* operator
+- Date() and getDay()
