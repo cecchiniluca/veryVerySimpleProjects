@@ -23,3 +23,8 @@ Operators and commands studied:
 - if, else if, else
 - *new* operator
 - Date() and getDay()
+
+## Login with prompt
+- logical operators
+- prompt()
+- alert()
