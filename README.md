@@ -28,3 +28,6 @@ Operators and commands studied:
 - logical operators
 - prompt()
 - alert()
+
+## arrowFunc
+- arrow function
