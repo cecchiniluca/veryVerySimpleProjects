@@ -31,3 +31,8 @@ Operators and commands studied:
 
 ## arrowFunc
 - arrow function
+
+## basicMath
+- custom functions
+- parseFloat()
+- while(){}
