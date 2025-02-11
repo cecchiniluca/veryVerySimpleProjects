@@ -36,3 +36,5 @@ Operators and commands studied:
 - custom functions
 - parseFloat()
 - while(){}
+
+## numberGuessingGame
