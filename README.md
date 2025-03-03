@@ -38,3 +38,8 @@ Operators and commands studied:
 - while(){}
 
 ## numberGuessingGame
+- appendBody
+- for of
+
+## shoppingList
+- DOM manipulation
