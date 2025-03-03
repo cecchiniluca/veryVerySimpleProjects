@@ -42,4 +42,4 @@ Operators and commands studied:
 - for of
 
 ## shoppingList
-- DOM manipulation
+- DOM manipulation (appendChild, createElement)
