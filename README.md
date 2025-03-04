@@ -43,3 +43,7 @@ Operators and commands studied:
 
 ## shoppingList
 - DOM manipulation (appendChild, createElement)
+
+## sillyStoryGenerator
+- repalce string method
+- random string selector
